@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GDG Sodacity Firebase Demo</string>
+    <string name="no_internet_connection">No valid internet connection</string>
+    <string name="sign_in_cancelled">Sign in was cancelled</string>
+    <string name="activity_home">Home</string>
+</resources>
